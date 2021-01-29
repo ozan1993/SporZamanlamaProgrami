@@ -24,6 +24,9 @@ class Activity2 : AppCompatActivity() {
     var round: Long = 1
 
     var isCancelled = false
+
+    //ben buraya yorum yaptım
+
     var isPaused = false
     var isRunning = true
 
